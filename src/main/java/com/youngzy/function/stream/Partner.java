@@ -1,4 +1,4 @@
-package com.youngzy.function;
+package com.youngzy.function.stream;
 
 import com.google.common.collect.ImmutableList;
 import lombok.AllArgsConstructor;
